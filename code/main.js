@@ -12,6 +12,7 @@ const wordToEmoji = {
     'feu': '🔥',
     'terre': '🌍',
     // Ajoute tes propres emojis ici !
+    // Ajoute tes propres emojis ici !
 };
 
 function convertTextToEmoji(text) {
