@@ -11,6 +11,18 @@ const wordToEmoji = {
     'eau': '💧',
     'feu': '🔥',
     'terre': '🌍',
+    'étoile': '⭐',
+    'fleur': '🌸',
+    'arbre': '🌳',
+    'montagne': '🏔️',
+    'mer': '🌊',
+    'vent': '💨',
+    'pluie': '🌧️',
+    'neige': '❄️',
+    'orage': '🌩️',
+    'aventure': '🗺️',
+    'explorer': '🧭',
+    'magie': '✨',
     // Ajoute tes propres emojis ici !
     // Ajoute tes propres emojis ici !
 };
