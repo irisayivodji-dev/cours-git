@@ -20,7 +20,7 @@ const wordToEmoji = {
     'pluie': '🌧️',
     'neige': '❄️',
     'orage': '🌩️',
-    'aventure': '🗺️',
+    'aventurier': '🗺️',
     'explorer': '🧭',
     'magie': '✨',
     
