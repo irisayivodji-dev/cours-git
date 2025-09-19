@@ -23,8 +23,7 @@ const wordToEmoji = {
     'aventure': '🗺️',
     'explorer': '🧭',
     'magie': '✨',
-    // Ajoute tes propres emojis ici !
-    // Ajoute tes propres emojis ici !
+    
 };
 
 function convertTextToEmoji(text) {
